@@ -1,15 +1,15 @@
 {
-  "name": "filpgame/laravel-pagarme",
+  "name": "alexandretaz/laravel-pagarme",
   "description": "Integration of Pagar.me library with Laravel 5",
   "keywords": ["pagarme", "gateway", "payment", "laravel", "checkout", "intermediary","pagar.me"],
   "type": "libraries",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "homepage": "https://github.com/filpgame/laravel-pagarme",
   "authors": [
     {
-      "name": "Felipe Rodrigues",
-      "email": "filpgame@gmail.com",
+      "name": "Alexandre dos Santos Andrade",
+      "email": "alexandretaz@gmail.com",
       "role": "Developer"
     }
   ],
@@ -27,12 +27,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Filpgame\\Pagarme\\": "src/"
+      "Alexandretaz\\Pagarme\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Filpgame\\Pagarme\\Tests\\": "tests/"
+      "Alexandretaz\\Pagarme\\Tests\\": "tests/"
     }
   },
   "branch-alias": {
