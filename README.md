@@ -1,11 +1,3 @@
-# laravel-pagarme
-
-[![Latest Stable Version](https://poser.pugx.org/filpgame/laravel-pagarme/v/stable)](https://packagist.org/packages/filpgame/laravel-pagarme)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://travis-ci.org/filpgame/laravel-pagarme.svg?branch=master)](https://travis-ci.org/filpgame/laravel-pagarme)
-[![Coverage Status](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/badges/build.png?b=master)](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/build-status/master)
-[![Code Quality](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/filpgame/laravel-pagarme/?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/filpgame/laravel-pagarme.svg?style=flat-square)](https://packagist.org/packages/filpgame/laravel-pagarme)
 
 
 ## Install
@@ -13,7 +5,7 @@
 Via Composer
 
 ``` bash
-$ composer require filpgame/laravel-pagarme
+$ composer require alexandretaz/laravel-pagarme
 ```
 
 ## Usage
